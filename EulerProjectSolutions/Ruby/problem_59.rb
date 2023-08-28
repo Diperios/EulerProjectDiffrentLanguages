@@ -1,1 +1,0 @@
-Solve Euler Project problem 59 in Ruby

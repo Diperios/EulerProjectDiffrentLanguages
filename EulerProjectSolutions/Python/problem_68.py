@@ -1,1 +1,0 @@
-Solve Euler Project problem 68 in Python

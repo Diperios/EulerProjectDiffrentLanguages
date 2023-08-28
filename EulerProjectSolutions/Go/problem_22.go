@@ -1,1 +1,0 @@
-Solve Euler Project problem 22 in Go

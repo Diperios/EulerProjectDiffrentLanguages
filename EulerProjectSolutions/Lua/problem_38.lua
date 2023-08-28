@@ -1,1 +1,0 @@
-Solve Euler Project problem 38 in Lua
