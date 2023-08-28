@@ -1,0 +1,1 @@
+Solve Euler Project problem 42 in JavaScript

@@ -1,0 +1,1 @@
+Solve Euler Project problem 27 in Go
